@@ -4,3 +4,4 @@ golan
 
 
 
+I did the whole test including the bonus.
